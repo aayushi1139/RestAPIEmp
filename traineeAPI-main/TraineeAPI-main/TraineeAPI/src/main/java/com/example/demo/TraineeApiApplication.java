@@ -19,6 +19,8 @@ public class TraineeApiApplication implements CommandLineRunner {
 
     public static void main(String[] args) {
         SpringApplication.run(TraineeApiApplication.class, args);
+
+System.out.println("hello")
     }
 
     @Override
